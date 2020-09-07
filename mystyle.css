@@ -1,0 +1,14 @@
+h2{
+    color: white;
+    text-align: center;
+    background-color: dodgerblue;
+    padding: 10px;
+    border: forestgreen;
+}
+h3{
+    background-color: tomato;
+    padding: 10px;
+    border: greenyellow;
+    border-radius: 10px;
+    font-weight: 100;
+}
